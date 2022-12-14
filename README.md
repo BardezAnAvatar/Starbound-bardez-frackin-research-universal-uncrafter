@@ -16,4 +16,3 @@ This mod does the following:
 
 ## Attributions
 - Universal Uncrafter icon appropriated from the [Universal Uncrafter](https://steamcommunity.com/sharedfiles/filedetails/?id=729532886) mod.
-- Frackin' Universe logo appropriated from the [Frackin' Universe](https://steamcommunity.com/sharedfiles/filedetails/?id=729480149) mod.
