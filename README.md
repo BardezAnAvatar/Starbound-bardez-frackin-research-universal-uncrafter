@@ -9,6 +9,8 @@ This mod does the following:
 - [ ] Adds a new research node on the Madness tree in FU for the Universal Uncrafter
 - [X] _Excessively_ test-patches the `player.config` file to remove the Universal Uncrafter blueprint known by default
   - Seriously, it tries indexes 1-1000 in the patch file
+- [X] Makes gray goo legendary since it's so powerful
+- [X] Updates the recipe for the Universal Uncrafter to require effigium, densinium, titanium, ferozium, isogen, and pyreite
 
 
 ## Attributions
