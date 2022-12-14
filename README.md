@@ -7,8 +7,8 @@ This repo is a mod for [Starbound](https://playstarbound.com/) It is based upon 
 
 This mod does the following:
 - [ ] Adds a new research node on the Madness tree in FU for the Universal Uncrafter
-- [ ] _Excessively_ test-patches the `player.config` file to remove the Universal Uncrafter blueprint known by default
-  - [ ] Seriously, it tries indexes 1-1000 in the patch file
+- [X] _Excessively_ test-patches the `player.config` file to remove the Universal Uncrafter blueprint known by default
+  - Seriously, it tries indexes 1-1000 in the patch file
 
 
 ## Attributions
