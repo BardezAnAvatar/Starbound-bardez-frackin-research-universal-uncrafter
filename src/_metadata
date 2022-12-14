@@ -2,7 +2,7 @@
   "author" : "Bardez",
   "description" : "DERP",
   "friendlyName" : "Frackin' Universe Research: Patch: Universal Uncrafter",
-  "includes" : ["FrackinUniverse", "Universal Uncrafter v1.46"],
+  "includes" : ["FrackinUniverse", "Universal Uncrafter v1.46", "bardez-frackin-research-madness-quantum"],
   "name" : "bardez-frackin-research-universal-uncrafter",
   "tags" : "Crafting and Building|Miscellaneous",
   "version" : "0.1.0"
