@@ -1,9 +1,11 @@
 {
   "author" : "Bardez",
-  "description" : "DERP",
+  "description" : "Requires the following mods:\n[list]\n  [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=729480149]Frackin' Universe[/url] since it adds research tree\n  [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=729532886]Universal Uncrafter[/url] since it adds our fun magic item\n  [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2901767904]Frackin' Universe Research: Madness: Quantum BS[/url] since it adds research tree\n[/list]\n\n\n\nProvides the following changes for compatability and balancing between [url=https://steamcommunity.com/sharedfiles/filedetails/?id=729480149]Frackin' Universe[/url] (FU) and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=729532886]Universal Uncrafter[/url]:\n[list]\n [*] Adds a new research node on the Madness tree in FU for the Universal Uncrafter\n [*] [i]Excessively[/i] test-patches the `player.config` file to remove the Universal Uncrafter blueprint known by default\n    [list]\n      [*] Seriously, it tries indexes 1-1000 in the patch file\n    [/list]\n [*] Makes gray goo legendary since it's so powerful\n [*] Updates the recipe for the Universal Uncrafter to require effigium, densinium, titanium, ferozium, isogen, and pyreite\n[/list]\n\n\n\nBoring Stuff:\n[url=https://github.com/BardezAnAvatar/Starbound-bardez-frackin-research-universal-uncrafter]Source on GitHub[/url]\n\n[b]Attributions[/b]:\n[list]\n  [*] Universal Uncrafter research icon appropriated from the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=729532886]Universal Uncrafter[/url] mod\n[/list]",
   "friendlyName" : "Frackin' Universe Research: Patch: Universal Uncrafter",
   "includes" : ["FrackinUniverse", "Universal Uncrafter v1.46", "bardez-frackin-research-madness-quantum"],
+  "link" : "steam://url/CommunityFilePage/2901857322",
   "name" : "bardez-frackin-research-universal-uncrafter",
+  "steamContentId" : "2901857322",
   "tags" : "Crafting and Building|Miscellaneous",
-  "version" : "0.1.0"
+  "version" : "1.0.0"
 }
