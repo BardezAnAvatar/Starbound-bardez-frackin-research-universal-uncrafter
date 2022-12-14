@@ -1,0 +1,17 @@
+[
+  [ 
+    {
+      "op": "replace",
+      "path":"/input",
+      "value": [
+        { "item" : "money", "count" : 2500 },
+        { "item" : "titaniumbar", "count" : 5 },
+        { "item" : "refinedferozium", "count" : 5 },
+        { "item" : "effigiumbar", "count" : 5 },
+        { "item" : "densiniumbar", "count" : 5 },
+        { "item" : "isogenbar", "count" : 5 },
+        { "item" : "pyreitebar", "count" : 5 }
+      ]
+    }
+  ]
+]

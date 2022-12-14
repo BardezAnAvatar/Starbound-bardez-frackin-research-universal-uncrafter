@@ -1,0 +1,37 @@
+[
+  //blender
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/universal_uncrafter",
+    "value" : {
+      "icon" : "/objects/crafting/uncrafter/uncraftericon.png",
+      "children" : [ ],
+      "position" : [-210, -180],
+      "price" : [ ["fumadnessresource", 800], ["fuscienceresource", 4000], ["exoticmatter", 5], ["phasematter", 5], ["precursorgel", 5], ["liquidelderfluid", 5] ],
+      "unlocks" : [ ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/quantum_tier2/children/-",
+    "value" : "universal_uncrafter"
+  },
+  //strings
+  {
+    "op" : "add",
+    "path" : "/strings/research/universal_uncrafter",
+    "value" : [ "Universal Uncrafter", "^orange;Tier 6^reset;\n\nYou envision a device that can move matter between--not material phases--but its past and its present; reduce an object to its original components! Restore what once was, reduce the complex into basic ingredients!\n\nReduce building blocks to a gray goo, and reform that goop into other blocks, reform matter through quantum shennanigans!\n\nBuild at your ^orange;Inventor's Table^reset; to craft." ]
+  },
+  //acronyms
+  {
+    "op" : "add",
+    "path" : "/acronyms/frackinuniversemadness/UU01",
+    "value" : "universal_uncrafter"
+  },
+  //hidden research
+  {
+    "op" : "add",
+    "path" : "/hiddenResearch/frackinuniversemadness/-",
+    "value" : "UU01"
+  }
+]
