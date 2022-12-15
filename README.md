@@ -10,9 +10,9 @@ This mod does the following:
 - [X] _Excessively_ test-patches the `player.config` file to remove the Universal Uncrafter blueprint known by default
   - Seriously, it tries indexes 1-1000 in the patch file
 - [X] Makes gray goo legendary since it's so powerful
+- [X] Makes the Uncrafter legendary, too (it's a legendary mod!)
 - [X] Updates the recipe for the Universal Uncrafter to require effigium, densinium, titanium, ferozium, isogen, and pyreite
 
 
 ## Attributions
 - Universal Uncrafter icon appropriated from the [Universal Uncrafter](https://steamcommunity.com/sharedfiles/filedetails/?id=729532886) mod.
-- Frackin' Universe logo appropriated from the [Frackin' Universe](https://steamcommunity.com/sharedfiles/filedetails/?id=729480149) mod.

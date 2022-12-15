@@ -998,5 +998,5 @@
   [{"op":"test","path":"/defaultBlueprints/tier1/3/item","value":"uncrafter"},{"op":"remove","path":"/defaultBlueprints/tier1/3"}],
   [{"op":"test","path":"/defaultBlueprints/tier1/2/item","value":"uncrafter"},{"op":"remove","path":"/defaultBlueprints/tier1/2"}],
   [{"op":"test","path":"/defaultBlueprints/tier1/1/item","value":"uncrafter"},{"op":"remove","path":"/defaultBlueprints/tier1/1"}],
-  [{"op":"test","path":"/defaultBlueprints/tier1/0/item","value":"uncrafter"},{"op":"remove","path":"/defaultBlueprints/tier1/1"}]
+  [{"op":"test","path":"/defaultBlueprints/tier1/0/item","value":"uncrafter"},{"op":"remove","path":"/defaultBlueprints/tier1/0"}]
 ]
