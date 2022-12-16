@@ -8,7 +8,7 @@
       "children" : [ ],
       "position" : [-210, -180],
       "price" : [ ["fumadnessresource", 800], ["fuscienceresource", 4000], ["exoticmatter", 5], ["phasematter", 5], ["precursorgel", 5], ["liquidelderfluid", 5] ],
-      "unlocks" : [ ]
+      "unlocks" : [ "uncrafter" ]
     }
   },
   {
